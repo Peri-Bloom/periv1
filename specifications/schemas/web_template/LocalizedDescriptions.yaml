@@ -1,9 +1,0 @@
-title: LocalizedDescriptions
-required:
-  - sl
-type: object
-properties:
-  sl:
-    type: string
-example:
-  sl: Generic encounter or progress note composition

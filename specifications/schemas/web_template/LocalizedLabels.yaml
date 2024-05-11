@@ -1,9 +1,0 @@
-title: LocalizedLabels
-required:
-  - sl
-type: object
-properties:
-  sl:
-    type: string
-example:
-  sl: Gol

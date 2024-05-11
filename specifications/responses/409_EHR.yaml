@@ -1,2 +1,0 @@
-description: |
-  `409 Conflict` Unable to create a new EHR due to a conflict with an already existing EHR with the same subject id, namespace pair, whenever EHR_STATUS is supplied.

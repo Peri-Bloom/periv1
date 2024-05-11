@@ -1,4 +1,0 @@
-title: CONTENT_ITEM
-type: object
-allOf:
-  - $ref: ../common/Locatable.yaml
